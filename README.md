@@ -16,9 +16,6 @@ Ensure you have the following installed on your system:
 - [MongoDB](https://www.mongodb.com/) 
 - [Git](https://git-scm.com/)
 
-## Demo Video
-[![Watch the video](https://img.youtube.com/vi/EJHRTrSXjNk/0.jpg)](https://youtu.be/EJHRTrSXjNk)
-
 ## Installation and Setup
 
 ### 1. Clone the Repository
@@ -64,11 +61,8 @@ The React frontend should now be running on `http://localhost:3000`.
 - Manage tasks efficiently with security-enhanced authentication.
 
 ## Created By
-- Syed Huzzatullah Mihad
-- CSE-2 ID-210041218
+- Mujeeb Ahmed
+- CSE-4 ID-839
 
 =======
-# Task-Management-System-
->>>>>>> b4aa2ebd39345375c9a8ae9a8a81ae36a4c242d0
-
 # Task-Management-System-
